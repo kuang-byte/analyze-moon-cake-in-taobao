@@ -1,0 +1,11 @@
+wordcloud
+pyecharts
+pylint
+requests
+yapf
+jieba
+matplotlib
+numpy
+pandas
+pyecharts-snapshot 
+pillow
