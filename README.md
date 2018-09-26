@@ -17,14 +17,18 @@ Package:
     * http://www.numpy.org/
     * The Fundamental package for scientific computing with python
 
+# Run script order
+`scrapypy` -> `analyze.py`
+
+Hint: The code may not be really object-oriented since this project is just for practicing the basic usage of those packages.
+
 # Pain point:
 https://github.com/amueller/word_cloud/issues/123
 
-# Generate ia
+# Generated Wordcloud Image
+![cloud-image](/result/mooncake.png)
 
 # Reference:
 * https://mp.weixin.qq.com/s/HHT-MNaRb443qhUJfpAPTA
-
 * http://docs.python-requests.org/en/master/user/quickstart/
-
- * https://www.jianshu.com/p/9a9468d6d3ec (waiting for read)
+* https://www.jianshu.com/p/9a9468d6d3ec (waiting for read)
